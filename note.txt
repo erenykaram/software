@@ -1,0 +1,10 @@
+please when entering the web site you will find 
+two working features 
+1.the log in page 
+2.the sign up in the booking page
+in the log in page please use this
+ username ::::: alaa
+mail::::: alaa123@yahoo.com
+password:: 112233
+......thank you 
+ 
